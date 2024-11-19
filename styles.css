@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+img.corner-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}img.corner-image {
+    content: url('file:///E:/M\'s Personal/Desktop/visual studio code/Tracking website/Tracking Image.jpg');
+}img.corner-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+img.corner-image {
+    content: url('file:///E:/M\'s Personal/Desktop/visual studio code/Tracking website/Bar Code Labels Image.jpg');
+}
